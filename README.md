@@ -1,2 +1,2 @@
-# Coursera_Capstone
-### This is my Capstone repository for my Coursera Applied Data Science Capstone
+# IBM Data Science Certification
+### This is the repository for my Coursera Applied Data Science Capstone
